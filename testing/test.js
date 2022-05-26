@@ -1,6 +1,6 @@
 const linkedIn = require('../index.js')
 
-linkedIn.query({ keyword: 'software', location: 'hawaii', dateSincePosted: 'past week', limit: '145' })
+linkedIn.query({ keyword: 'software', location: 'hawaii', dateSincePosted: 'past week', limit: '1' })
         .then( response => {
             console.log(response)
         })
