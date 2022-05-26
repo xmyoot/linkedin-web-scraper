@@ -1,0 +1,23 @@
+{
+  "name": "linkedin-scraper",
+  "version": "1.0.0",
+  "description": "a node.js package for scraping jobs from linked in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmyoot/linkedin-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmyoot/linkedin-scraper/issues"
+  },
+  "homepage": "https://github.com/xmyoot/linkedin-scraper#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11"
+  }
+}
