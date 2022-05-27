@@ -45,7 +45,7 @@ linkedIn.query(queryOptions).then(response => {
 
 query() accepts a _queryOptions_ object and returns an array of _Job_ objects.
 
-| Paramter    | LinkedIn Default value| Description                                                                                    |
+| Parameter    | LinkedIn Default value| Description                                                                                    |
 |:-----------:|:---------------------:|:----------------------------------------------------------------------------------------------:| 
 | keyword     |       ""              | _string_ - The text to search: (i.e. Software Developer)                                                           |         
 | location    |       ""              | _string_ - The name of the city: (i.e. Los Angeles)   
