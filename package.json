@@ -1,6 +1,6 @@
 {
-  "name": "linkedin-scraper",
-  "version": "1.0.0",
+  "name": "linkedin-job-scraper",
+  "version": "1.0.2",
   "description": "A package for scraping jobs from LinkedIn Jobs",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,6 @@
   "dependencies": {
     "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.11"
-  }
+  },
+  "keywords": ["scrape", "linkedin", "parse", "jobs", ""]
 }
