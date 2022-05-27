@@ -1,7 +1,7 @@
 {
   "name": "linkedin-scraper",
   "version": "1.0.0",
-  "description": "a node.js package for scraping jobs from linked in",
+  "description": "A package for scraping jobs from LinkedIn Jobs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
