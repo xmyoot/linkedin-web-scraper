@@ -1,6 +1,6 @@
 {
   "name": "linkedin-job-scraper",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A package for scraping jobs from LinkedIn Jobs",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,6 @@
     "scrape",
     "linkedin",
     "parse",
-    "jobs",
-    ""
+    "jobs"
   ]
 }
