@@ -19,7 +19,7 @@ npm i linkedin-job-scraper
 Include the package
 
 ```
-const linkedin = require('linkedin-job-scraper');
+const linkedIn = require('linkedin-job-scraper');
 ```
 
 Basic Usage:
